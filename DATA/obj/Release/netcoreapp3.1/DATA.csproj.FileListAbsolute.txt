@@ -1,0 +1,9 @@
+D:\Akash Project\API_Vi_EnegryMeter\DATA\bin\Release\netcoreapp3.1\DATA.deps.json
+D:\Akash Project\API_Vi_EnegryMeter\DATA\bin\Release\netcoreapp3.1\DATA.dll
+D:\Akash Project\API_Vi_EnegryMeter\DATA\bin\Release\netcoreapp3.1\DATA.pdb
+D:\Akash Project\API_Vi_EnegryMeter\DATA\obj\Release\netcoreapp3.1\DATA.csproj.AssemblyReference.cache
+D:\Akash Project\API_Vi_EnegryMeter\DATA\obj\Release\netcoreapp3.1\DATA.AssemblyInfoInputs.cache
+D:\Akash Project\API_Vi_EnegryMeter\DATA\obj\Release\netcoreapp3.1\DATA.AssemblyInfo.cs
+D:\Akash Project\API_Vi_EnegryMeter\DATA\obj\Release\netcoreapp3.1\DATA.csproj.CoreCompileInputs.cache
+D:\Akash Project\API_Vi_EnegryMeter\DATA\obj\Release\netcoreapp3.1\DATA.dll
+D:\Akash Project\API_Vi_EnegryMeter\DATA\obj\Release\netcoreapp3.1\DATA.pdb

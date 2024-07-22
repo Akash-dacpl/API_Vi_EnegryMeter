@@ -1,0 +1,12 @@
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\bin\Release\netcoreapp3.1\SERVICES.deps.json
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\bin\Release\netcoreapp3.1\SERVICES.dll
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\bin\Release\netcoreapp3.1\SERVICES.pdb
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\bin\Release\netcoreapp3.1\DATA.dll
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\bin\Release\netcoreapp3.1\DATA.pdb
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\obj\Release\netcoreapp3.1\SERVICES.csproj.AssemblyReference.cache
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\obj\Release\netcoreapp3.1\SERVICES.AssemblyInfoInputs.cache
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\obj\Release\netcoreapp3.1\SERVICES.AssemblyInfo.cs
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\obj\Release\netcoreapp3.1\SERVICES.csproj.CoreCompileInputs.cache
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\obj\Release\netcoreapp3.1\SERVICES.csproj.CopyComplete
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\obj\Release\netcoreapp3.1\SERVICES.dll
+D:\Akash Project\API_Vi_EnegryMeter\SERVICES\obj\Release\netcoreapp3.1\SERVICES.pdb

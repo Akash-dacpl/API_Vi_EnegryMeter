@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\IIS HOSTING\Ved_API_Publish</_PublishTargetUrl>
+    <History>True|2024-06-25T10:14:34.7685518Z;True|2024-06-25T14:53:05.1633542+05:30;True|2024-06-22T10:46:14.0601058+05:30;True|2024-06-20T11:04:07.2792116+05:30;True|2024-06-13T14:56:48.0583216+05:30;True|2024-06-08T17:01:13.7145883+05:30;True|2024-05-28T15:50:47.2860094+05:30;True|2024-05-27T11:35:27.1867693+05:30;True|2024-05-27T09:28:06.3492003+05:30;True|2024-05-25T17:39:42.9097224+05:30;True|2024-05-25T17:08:09.2842226+05:30;</History>
+  </PropertyGroup>
+</Project>
